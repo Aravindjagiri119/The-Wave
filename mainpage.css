@@ -1,0 +1,38 @@
+.outbox{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(food3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px 600px;
+}
+#nav{
+    border: solid 1px;
+    height: 50px;
+    line-height: 50px;
+}
+#in{
+    color: deeppink;
+    font-size: 25px;
+    text-decoration: none;
+    padding-right: 100px;
+    font-weight: bold;
+}
+.out{
+    border: solid 1px black;
+    height: 548px;
+}
+#Thewave{
+    color: gold;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 10px 10px 15px black;
+}
+#menu{
+    border: solid 1px;
+    height: 500px;
+
+}
+#image{
+    border-radius: 50%;
+}
